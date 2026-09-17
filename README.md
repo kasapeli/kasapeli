@@ -18,6 +18,6 @@ I am a student with a lot of interest in web development and low-level systems.
 ### Check out some of my projects
 - [ovc (Version Control System)](https://github.com/kasapeli/ovc)  
 - [sre (Package Manager)](https://github.com/kasapeli/sre)
-- [fern (An 'OS', well not really for now)](https://github.com/kasapeli/fern)
+- [fers (An 'OS', well not really for now)](https://github.com/kasapeli/fers)
 - [hyprmoi (Hyprland with chezmoi)](https://github.com/kasapeli/hyprmoi)  
 - [nixfx (Sway with nixfx, and Stylix)](https://github.com/kasapeli/nixfx)
