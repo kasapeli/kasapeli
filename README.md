@@ -20,4 +20,4 @@ I am a student with a lot of interest in web development and low-level systems.
 - [sre (Package Manager)](https://github.com/kasapeli/sre)
 - [fers (An 'OS', well not really for now)](https://github.com/kasapeli/fers)
 - [hyprmoi (Hyprland with chezmoi)](https://github.com/kasapeli/hyprmoi)  
-- [nixfx (SwayFX with Nix, and Stylix)](https://github.com/kasapeli/nixfx)
+- [nixfx (SwayFX with Nix and Stylix)](https://github.com/kasapeli/nixfx)
